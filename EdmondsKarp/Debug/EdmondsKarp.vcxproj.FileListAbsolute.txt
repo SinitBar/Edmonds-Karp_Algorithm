@@ -1,0 +1,4 @@
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\курсовая\UnitTest_EdmondsKarp\Debug\EdmondsKarp.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\курсовая\EdmondsKarp\Debug\EdmondsKarp.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\курсовая\Edmonds-Karp_Algorithm\UnitTest_EdmondsKarp\Debug\EdmondsKarp.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\курсовая\Edmonds-Karp_Algorithm\EdmondsKarp\Debug\EdmondsKarp.pdb
